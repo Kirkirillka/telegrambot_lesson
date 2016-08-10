@@ -1,0 +1,7 @@
+PyTelegramBotAPI
+requests
+telebot
+urllib3
+flask
+eventlet
+psycopg2

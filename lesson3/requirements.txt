@@ -1,0 +1,6 @@
+CherryPy
+PyTelegramBotAPI
+requests
+telebot
+urllib3
+flask
